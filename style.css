@@ -1,0 +1,40 @@
+.Yum {
+    background-color: pink;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 3em;
+    padding: 5px;
+    border: 6px;
+}
+#blub {
+    color: blue;
+    font-family: cursive;
+    margin-left: 20px;
+    padding: 2px;
+}
+.life-span {
+    color: brown;
+    font-family: cursive;
+    margin-left: 20px;
+    padding: 7px;
+}
+.clean {
+    color: rgb(234,143,213);
+    font-family: cursive;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 7px;
+}
+#supplies {
+    color: purple;
+    font-family: cursive;
+    margin-left: 20px;
+    padding: 7px;
+}
+.brush {
+    font-family: cursive;
+    color: orange;
+}
+
+
